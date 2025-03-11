@@ -1,0 +1,29 @@
+selectoor {property:value}
+
+
+#AboutTitle {
+    color: blue;
+}
+h2{
+    color:blueviolet;
+
+}
+#AboutTitle{
+    color:aqua;
+}
+header {
+    background-color: chartreuse;
+    height: 150px;
+}
+nav{
+    background-color: chocolate;
+    height: 80px;
+}
+section {
+    background-color: burlywood;
+    height:200px;
+}
+footer {
+    background-color: brown;
+    height: 300px;
+}
